@@ -16,7 +16,7 @@
             goeden dag
     </header>
 
-    <div>hoi</div>
-    <a href="/2epage">2e pagina</a>
+    <div>hoi je bent nu op de 2e pagina van deze website</div>
+    <a href="/">ga terug naar de homepage</a>
 </body>
 </html> 
